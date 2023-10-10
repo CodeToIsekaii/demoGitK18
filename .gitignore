@@ -1,0 +1,7 @@
+index.html 
+# bây giờ index ko nằm trong tầm kiểm soát của thằng git nữa
+# Comment
+node_modules/
+.logs
+# thường file lưu password,thông tin mật .env (gọi là biến mối trường) ignore nó ko cho đẩy file lên server
+# thường file .gitignore mới tạo dự án là làm ròi   
