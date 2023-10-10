@@ -1,4 +1,7 @@
-*{
-  margin: 0 auto;
+/* ko thấy gì hết tại vì local và remote tuy có liên kết với nhau nhưng mà nó phải cập nhật */
+* {
+  margin: 20px auto;
   padding: 0 auto;
 }
+/* $ git pull origin main */
+/* origin nó ám chỉ định 1 cai nhánh nghĩa là nhánh mình muốn lôi về là nhánh main */
