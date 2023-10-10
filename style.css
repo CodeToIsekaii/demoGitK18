@@ -2,6 +2,7 @@
 * {
   margin: 20px auto;
   padding: 0 auto;
+  background-color: white;
 }
 /* $ git pull origin main */
 /* origin nó ám chỉ định 1 cai nhánh nghĩa là nhánh mình muốn lôi về là nhánh main */
